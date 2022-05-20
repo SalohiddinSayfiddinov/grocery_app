@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/salohiddin/Desktop/Flutter/zakaz/build/path_provider_android/intermediates/merged_res/debug/drawable/notification_tile_bg.xml",
+        "source": "/home/salohiddin/.gradle/caches/transforms-3/0eeed1602b5efdb414021b898fac3b52/transformed/core-1.6.0/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/home/salohiddin/Desktop/Flutter/zakaz/build/path_provider_android/intermediates/merged_res/debug/drawable/notification_icon_background.xml",
+        "source": "/home/salohiddin/.gradle/caches/transforms-3/0eeed1602b5efdb414021b898fac3b52/transformed/core-1.6.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/home/salohiddin/Desktop/Flutter/zakaz/build/path_provider_android/intermediates/merged_res/debug/drawable/notification_bg.xml",
+        "source": "/home/salohiddin/.gradle/caches/transforms-3/0eeed1602b5efdb414021b898fac3b52/transformed/core-1.6.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/home/salohiddin/Desktop/Flutter/zakaz/build/path_provider_android/intermediates/merged_res/debug/drawable/notification_bg_low.xml",
+        "source": "/home/salohiddin/.gradle/caches/transforms-3/0eeed1602b5efdb414021b898fac3b52/transformed/core-1.6.0/res/drawable/notification_bg_low.xml"
+    }
+]
